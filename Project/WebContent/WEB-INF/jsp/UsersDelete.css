@@ -1,0 +1,15 @@
+h2{
+	background-color:gray;
+	color : white;
+}
+div{
+	color:red;
+	text-align:right;
+}
+body{
+	text-align : center;
+}
+.div1{
+	text-align : left;
+	color:black;
+}

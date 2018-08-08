@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body{
+text-align: center;
+}
+h2{
+	background-color:gray;
+	color : white;
+}
+ div{
+ color : red;
+ text-align: right;
+ }
+ .div1{
+ color:blue;
+ text-align : left;
+ }
+
+.box1{
+	font-size: 50px;
+}
+.div5{
+	text-align:center;
+	color:red;
+	
+}
+

@@ -1,0 +1,45 @@
+body{
+text-align:center;
+}
+P{
+text-align:right;
+}
+.div2{
+text-align:right;
+color:red;
+
+}
+.regist{
+text-align:right;
+}
+.div1{
+	background-color:grey;
+	color:white;
+}
+.regist{
+	text-align:right;
+	color:blue;
+}
+.div3{
+	background-color:blue;
+	color:white;
+}
+
+
+
+.div4{
+	background-color:green;
+	color:white;
+}
+.div5{
+	background-color:red;
+	color:white;
+	}
+	table{
+	margin:auto;
+	}
+	.ABC{
+	text-align : right;
+}
+	
+}
